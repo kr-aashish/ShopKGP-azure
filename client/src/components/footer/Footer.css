@@ -1,0 +1,107 @@
+.footer-container {
+    background-color: #232f3e;
+    color: #fff;
+    padding: 40px 0;
+    margin-top: 20px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh; */
+  }
+  
+  .footer-container h6 {
+    margin-bottom: 20px;
+  }
+  
+  .footer-container p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-container ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-container ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-container ul li a:hover {
+    color: orange;
+  }
+  
+  .footer-container .footer-logo {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-container .footer-social-icons {
+    margin-bottom: 20px;
+  }
+  
+  .footer-container .footer-social-icons ul {
+    display: flex;
+  }
+  
+  .footer-container .footer-social-icons ul li {
+    margin-right: 10px;
+  }
+  
+  .footer-container .footer-social-icons ul li a {
+    color: #fff;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    background-color: #3498db;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .footer-container .footer-social-icons ul li a:hover {
+    background-color: orange;
+  }
+  
+  .footer-container .footer-contact {
+    margin-top: 30px;
+  }
+  
+  .footer-container .footer-contact li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-container .footer-contact li span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .footer-container .footer-legal {
+    margin-top: 0px;
+    /* margin: auto 0 0; */
+  }
+  
+  .footer-social-links li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .footer-social-links li a {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-social-links li a svg {
+    margin-right: 5px;
+  }
+  

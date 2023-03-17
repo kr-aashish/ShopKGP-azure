@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  /* background-color: rgb(241, 244, 246); */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
